@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout<<"this is dummy test\n"
+    std::cout<<"this is dummy test\n";
 }
